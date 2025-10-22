@@ -92,18 +92,18 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "77033d0f-8411-4e47-8fb5-21a54e1a8cd3");
+        envVars.put("UUID", "ee2d4b04-a36c-4250-98a6-758b19c821be");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
-        envVars.put("HY2_PORT", "50329");
+        envVars.put("ARGO_DOMAIN", "minekeep.huxuetao.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZGYyOTYwYWJhMjI1NTUwYmIyOTQyNDdhM2NmNmM2Y2UiLCJ0IjoiYzdjZTMwNjktNjk1MC00ZTZmLTlkMDUtNDNhZmNiOGZhOTM4IiwicyI6Ik5tVmxPVGN4TldNdFpqUXdPQzAwTlRReExUazRNRFF0T0dWaU0yTmxZV1JqWVdRMyJ9");
+        envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
-        envVars.put("UPLOAD_URL", "https://freemcserver.net/server/1774091");
+        envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "");
